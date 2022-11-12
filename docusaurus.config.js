@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'B&R The BLog',
   tagline: 'Beers and Ruebens',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://zealous-dune-08ef2df1e.2.azurestaticapps.net',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
