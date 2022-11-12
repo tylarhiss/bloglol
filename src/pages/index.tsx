@@ -11,8 +11,8 @@ import { Redirect } from '@docusaurus/router';
 export default function Home(): JSX.Element {
   return (
     <Layout
-      title={`Beer and Rueben Blog`}
-      description="Rating some beer and some ruebens. The blog">
+      title={`Beer and Reuben Blog`}
+      description="Rating some beer and some reubens. The blog">
       <Redirect to={"/blog"}/>
     </Layout>
   );

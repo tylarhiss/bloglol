@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'B&R The BLOG',
-  tagline: 'Beers and Ruebens',
+  tagline: 'Beers and Reubens',
   url: 'https://zealous-dune-08ef2df1e.2.azurestaticapps.net',
   baseUrl: '/',
   onBrokenLinks: 'throw',
