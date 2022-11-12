@@ -2,12 +2,12 @@
 slug: welcome
 title: Welcome
 authors: [tylar]
-tags: [beer, rueben, tylar, shades]
+tags: [beer, reuben, tylar, shades]
 ---
 
 ## Goal
 
-This blog is the start of something big. Together we're going to answer the big questions in life such as "Is this beer good?" or even "is there somewhere in town with a bad rueben?". I can't promise we'll have the answers immediately, but I can promise that we will try.
+This blog is the start of something big. Together we're going to answer the big questions in life such as "Is this beer good?" or even "is there somewhere in town with a bad reuben?". I can't promise we'll have the answers immediately, but I can promise that we will try.
 
 
 ## Let's Talk Shades Brewery
@@ -30,12 +30,12 @@ Some people are all about Shades and their beers. I've pondered to myself.. why 
 ### More flavors to come
 This is just the beginning. Going forward I'll do full writeups of each flavor
 
-## What is a Rueben?
+## What is a Reuben?
 Take a look at this picture and tell me that this isn't the most delicious looking sandwhich you've ever seen.
 
 ![Yooo](https://natashaskitchen.com/wp-content/uploads/2020/02/Reuben-Sandwich-3.jpg)
 
-We're going around town trying differen't Ruebens to see where they stack!
+We're going around town trying different Reubens to see where they stack!
 
 <!-- [Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).
 
