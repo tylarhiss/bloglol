@@ -2,7 +2,7 @@
 slug: welcome
 title: Welcome
 authors: [tylar]
-tags: [beer, rueben, tylarhiss]
+tags: [beer, rueben, tylar, shades]
 ---
 
 ## Goal
